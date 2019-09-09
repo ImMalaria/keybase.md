@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am immalaria on github.
+  * I am hereforthemoney (https://keybase.io/hereforthemoney) on keybase.
+  * I have a public key ASDR6ImUhun9Qs17_phvzdor8lBnNgMAvdMy1_lpyLCM8Ao
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d1e8899486e9fd42cd7bfe986fcdda2bf25067360300bdd332d7f969c8b08cf00a",
+      "host": "keybase.io",
+      "kid": "0120d1e8899486e9fd42cd7bfe986fcdda2bf25067360300bdd332d7f969c8b08cf00a",
+      "uid": "dbf986b7b61e81109d0424bac6f60319",
+      "username": "hereforthemoney"
+    },
+    "merkle_root": {
+      "ctime": 1568066837,
+      "hash": "40bb982a44209aac7a6cb2d472fe331bae37d33a74aeaa98bd095f317c239897bf85947e2a61492a2dec9f8e57484d4790d09f3a738b8e96411dca9fe619613b",
+      "hash_meta": "4c3ba69a5be5225bb7951b7c4b17251c42300c832ef5970deaf7ee0adb26e458",
+      "seqno": 6263657
+    },
+    "service": {
+      "entropy": "pOpdKbCaJrcBFvKG8A3BrHQN",
+      "name": "github",
+      "username": "immalaria"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568066843,
+  "expire_in": 504576000,
+  "prev": "5efe3ada2cc6d7188d37e8d802016c91f4736c434993288d57c8bfddcffc793e",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASDR6ImUhun9Qs17_phvzdor8lBnNgMAvdMy1_lpyLCM8Ao](https://keybase.io/hereforthemoney), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg0eiJlIbp/ULNe/6Yb83aK/JQZzYDAL3TMtf5aciwjPAKp3BheWxvYWTESpcCBcQgXv462izG1xiNN+jYAgFskfRzbENJkyiNV8i/3c/8eT7EILzi1DuVA72Ij/lZ3X6nF1NduoX9rf90HuzHybg26HlzAgHCo3NpZ8RAMuAJGFuvbe+80drdiKMV0wrNEfLI1muaRdd+g+EnIoap1594C0BQb3jXLmWrgyBh+rbR+EoHfkgN2JTU3YuwBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIL6fiqbdp9QX/rs325bjbdV4yFUieQ8Us6qIE+U8sSuCo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/hereforthemoney
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id hereforthemoney
+```
